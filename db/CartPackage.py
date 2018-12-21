@@ -14,7 +14,7 @@ class CartPackage(object):
 
     def save(self):
         sql = """
-        insert into cart_package(jpe_name, chi_name, abbreviation, eng_name, punish_name, tags_rarity_id, created) 
+        insert into cart_package(jpe_name, chi_name, abbreviation, eng_name, punish_time, tags_rarity_id, created) 
         VALUES (%s, %s, %s, %s, %s, %s, %s)
         """
         param = [self.jpe_name, self.chi_name, self.abbreviation, self.eng_name, self.punish_time, self.tags_rarity_id,

@@ -1,0 +1,599 @@
+2018-12-21 00:10:01,732 - spider.py[line:248] - ERROR: None page:18
+2018-12-21 00:10:01,732 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 00:10:01,732 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:18:39,134 - spider.py[line:248] - ERROR: 超天新龙异色眼革命龙 page:75
+2018-12-21 00:18:39,134 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 00:18:39,135 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:25:27,549 - spider.py[line:248] - ERROR: DDD命运王零之拉普拉斯 page:111
+2018-12-21 00:25:27,549 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:25:27,549 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:28:05,059 - spider.py[line:248] - ERROR: 十二兽轮环狗 page:125
+2018-12-21 00:28:05,059 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:28:05,059 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:30:53,160 - spider.py[line:248] - ERROR: 十二兽野弓猪 page:142
+2018-12-21 00:30:53,160 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:30:53,161 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:31:18,821 - spider.py[line:248] - ERROR: 百万吞食暴食兽 page:144
+2018-12-21 00:31:18,821 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:31:18,821 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:36:52,221 - spider.py[line:248] - ERROR: 蛇神格 page:175
+2018-12-21 00:36:52,221 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:36:52,221 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:37:58,892 - spider.py[line:248] - ERROR: 对坏兽用决战兵器超级机械多哥兰 page:180
+2018-12-21 00:37:58,894 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:37:58,894 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:41:47,671 - spider.py[line:248] - ERROR: No.38希望魁龙银河巨神 page:197
+2018-12-21 00:41:47,671 - spider.py[line:249] - ERROR: Unterminated string starting at: line 1 column 4328 (char 4327)
+2018-12-21 00:41:47,673 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:42:07,634 - spider.py[line:248] - ERROR: 召唤神艾库佐迪亚 page:199
+2018-12-21 00:42:07,634 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 00:42:07,634 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:43:12,303 - spider.py[line:248] - ERROR: 魔海城百臂巨人 page:205
+2018-12-21 00:43:12,303 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:43:12,303 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:47:56,061 - spider.py[line:248] - ERROR: SNo.0希望之异热同心 page:230
+2018-12-21 00:47:56,061 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:47:56,061 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:48:07,269 - spider.py[line:248] - ERROR: 太阳神之翼神龙-球体形 page:231
+2018-12-21 00:48:07,269 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:48:07,269 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:48:55,581 - spider.py[line:248] - ERROR: 合神龙提迈欧斯 page:236
+2018-12-21 00:48:55,581 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:48:55,581 - spider.py[line:250] - ERROR: 
+
+2018-12-21 00:52:02,664 - spider.py[line:248] - ERROR: 妖仙兽大幽谷响 page:252
+2018-12-21 00:52:02,664 - spider.py[line:249] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 00:52:02,664 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:02:25,164 - spider.py[line:248] - ERROR: 星尘妖 page:311
+2018-12-21 01:02:25,164 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:02:25,164 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:03:43,655 - spider.py[line:248] - ERROR: 巡死神收割者 page:319
+2018-12-21 01:03:43,657 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:03:43,657 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:06:22,046 - spider.py[line:248] - ERROR: 隆隆隆巨像-黄金形态 page:334
+2018-12-21 01:06:22,046 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:06:22,046 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:18:41,359 - spider.py[line:248] - ERROR: 魔偶甜点牛角包狗狗 page:392
+2018-12-21 01:18:41,361 - spider.py[line:249] - ERROR: [Errno socket error] [Errno 10060] 
+2018-12-21 01:18:41,361 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:20:37,595 - spider.py[line:248] - ERROR: 幻影抓取者 page:401
+2018-12-21 01:20:37,595 - spider.py[line:249] - ERROR: HTTPSConnectionPool(host='www.ourocg.cn', port=443): Max retries exceeded with url: /card/OosvMg (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000000005D30B00>: Failed to establish a new connection: [Errno 10060] ',))
+2018-12-21 01:20:37,595 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:21:22,323 - spider.py[line:248] - ERROR: 先史遗产巨石头像 page:403
+2018-12-21 01:21:22,323 - spider.py[line:249] - ERROR: [Errno socket error] [Errno 10060] 
+2018-12-21 01:21:22,323 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:21:38,842 - spider.py[line:248] - ERROR: 光之创造神哈拉克提 page:405
+2018-12-21 01:21:38,844 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:21:38,844 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:25:02,681 - spider.py[line:248] - ERROR: 玛特 page:420
+2018-12-21 01:25:02,683 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:25:02,683 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:28:01,812 - spider.py[line:248] - ERROR: No.30破灭的酸液巨像 page:435
+2018-12-21 01:28:01,812 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:28:01,812 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:30:32,457 - spider.py[line:248] - ERROR: 雷骑手 page:445
+2018-12-21 01:30:32,457 - spider.py[line:249] - ERROR: [Errno socket error] [Errno 10060] 
+2018-12-21 01:30:32,459 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:33:21,576 - spider.py[line:248] - ERROR: 流天类星龙 page:458
+2018-12-21 01:33:21,578 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:33:21,578 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:35:56,457 - spider.py[line:248] - ERROR: 至尊太阳 page:470
+2018-12-21 01:35:56,457 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:35:56,459 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:36:22,772 - spider.py[line:248] - ERROR: 机皇神机事录∞ page:473
+2018-12-21 01:36:22,772 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:36:22,772 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:39:52,434 - spider.py[line:248] - ERROR: 机皇帝地神号∞ page:488
+2018-12-21 01:39:52,436 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:39:52,436 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:40:09,309 - spider.py[line:248] - ERROR: 机皇帝智神号∞ page:490
+2018-12-21 01:40:09,309 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:40:09,309 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:40:49,578 - spider.py[line:248] - ERROR: 七剑战士 page:493
+2018-12-21 01:40:49,578 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:40:49,579 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:40:52,571 - spider.py[line:248] - ERROR: 对流气圈鸟 page:494
+2018-12-21 01:40:52,571 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:40:52,571 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:41:55,921 - spider.py[line:248] - ERROR: BF-极光之奥罗拉 page:500
+2018-12-21 01:41:55,921 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:41:55,921 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:43:21,407 - spider.py[line:248] - ERROR: Sin真实龙 page:506
+2018-12-21 01:43:21,407 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:43:21,407 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:44:51,390 - spider.py[line:248] - ERROR: 扇耳象 page:511
+2018-12-21 01:44:51,391 - spider.py[line:249] - ERROR: ('http protocol error', 0, 'got a bad status line', None)
+2018-12-21 01:44:51,391 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:48:06,040 - spider.py[line:248] - ERROR: Sin星尘龙 page:525
+2018-12-21 01:48:06,040 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:48:06,042 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:48:48,502 - spider.py[line:248] - ERROR: 闪电战士 page:528
+2018-12-21 01:48:48,502 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:48:48,502 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:52:12,276 - spider.py[line:248] - ERROR: 电子天龙座γ page:545
+2018-12-21 01:52:12,276 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:52:12,278 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:52:19,490 - spider.py[line:248] - ERROR: 百眼龙 page:546
+2018-12-21 01:52:19,490 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:52:19,490 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:52:20,900 - spider.py[line:248] - ERROR: 奥利哈刚巨土偶 page:547
+2018-12-21 01:52:20,900 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:52:20,900 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:53:24,177 - spider.py[line:248] - ERROR: 命运女郎厄希 page:553
+2018-12-21 01:53:24,177 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:53:24,177 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:53:25,680 - spider.py[line:248] - ERROR: 命运女郎达琪 page:554
+2018-12-21 01:53:25,680 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:53:25,681 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:53:35,634 - spider.py[line:248] - ERROR: 异虫零 page:555
+2018-12-21 01:53:35,634 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:53:35,634 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:55:52,072 - spider.py[line:248] - ERROR: 命运女郎法伊莉 page:566
+2018-12-21 01:55:52,072 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:55:52,072 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:56:19,101 - spider.py[line:248] - ERROR: 侏罗系伶盗龙 page:568
+2018-12-21 01:56:19,101 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:56:19,101 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:56:48,943 - spider.py[line:248] - ERROR: 巨像龙 page:571
+2018-12-21 01:56:48,944 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:56:48,944 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:57:03,232 - spider.py[line:248] - ERROR: 巨人斗士/爆裂体 page:573
+2018-12-21 01:57:03,233 - spider.py[line:249] - ERROR: [Errno 2] No such file or directory: u'E:\\workspace\\pycharm\\YuGoHiSpider\\image\\\u5de8\u4eba\u6597\u58eb/\u7206\u88c2\u4f53.jpg'
+2018-12-21 01:57:03,233 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:58:34,013 - spider.py[line:248] - ERROR: 创世龙 page:581
+2018-12-21 01:58:34,013 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 01:58:34,013 - spider.py[line:250] - ERROR: 
+
+2018-12-21 01:59:31,036 - spider.py[line:248] - ERROR: 雷-神 page:587
+2018-12-21 01:59:31,036 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 01:59:31,036 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:00:26,255 - spider.py[line:248] - ERROR: 扫描机器 page:592
+2018-12-21 02:00:26,255 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:00:26,256 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:00:32,092 - spider.py[line:248] - ERROR: 奥金魔导士/爆裂体 page:593
+2018-12-21 02:00:32,094 - spider.py[line:249] - ERROR: [Errno 2] No such file or directory: u'E:\\workspace\\pycharm\\YuGoHiSpider\\image\\\u5965\u91d1\u9b54\u5bfc\u58eb/\u7206\u88c2\u4f53.jpg'
+2018-12-21 02:00:32,094 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:01:05,954 - spider.py[line:248] - ERROR: 真红魔龙/爆裂体 page:595
+2018-12-21 02:01:05,954 - spider.py[line:249] - ERROR: [Errno 2] No such file or directory: u'E:\\workspace\\pycharm\\YuGoHiSpider\\image\\\u771f\u7ea2\u9b54\u9f99/\u7206\u88c2\u4f53.jpg'
+2018-12-21 02:01:05,954 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:01:45,128 - spider.py[line:248] - ERROR: 火车 page:599
+2018-12-21 02:01:45,128 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:01:45,128 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:01:54,655 - spider.py[line:248] - ERROR: 特拉戈迪亚 page:600
+2018-12-21 02:01:54,657 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:01:54,657 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:04:14,944 - spider.py[line:248] - ERROR: 暗之终焉龙 page:612
+2018-12-21 02:04:14,946 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:04:14,946 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:04:23,726 - spider.py[line:248] - ERROR: 羽翼栗子球LV9 page:613
+2018-12-21 02:04:23,727 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:04:23,727 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:05:59,604 - spider.py[line:248] - ERROR: 蒙太奇龙 page:621
+2018-12-21 02:05:59,604 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:05:59,604 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:08:56,874 - spider.py[line:248] - ERROR: 邪龙阿难陀 page:637
+2018-12-21 02:08:56,874 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:08:56,875 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:09:54,757 - spider.py[line:248] - ERROR: 计算器人 page:643
+2018-12-21 02:09:54,757 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:09:54,759 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:10:01,987 - spider.py[line:248] - ERROR: 终焉的精灵 page:644
+2018-12-21 02:10:01,989 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:10:01,989 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:10:27,719 - spider.py[line:248] - ERROR: 真红眼暗钢龙 page:647
+2018-12-21 02:10:27,719 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:10:27,720 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:11:20,000 - spider.py[line:248] - ERROR: 嵌合机型要塞龙 page:651
+2018-12-21 02:11:20,002 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:11:20,002 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:11:26,617 - spider.py[line:248] - ERROR: 究极封印神艾库佐迪奥斯 page:652
+2018-12-21 02:11:26,617 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:11:26,618 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:12:06,894 - spider.py[line:248] - ERROR: E-HERO黑暗大地 page:656
+2018-12-21 02:12:06,894 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:12:06,894 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:13:19,466 - spider.py[line:248] - ERROR: 神兽王巴巴罗斯 page:663
+2018-12-21 02:13:19,466 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:13:19,466 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:24:57,032 - spider.py[line:248] - ERROR: 黑暗杀手 page:716
+2018-12-21 02:24:57,032 - spider.py[line:249] - ERROR: [Errno socket error] [Errno 10060] 
+2018-12-21 02:24:57,032 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:25:15,456 - spider.py[line:248] - ERROR: 邪神抹杀尊者 page:718
+2018-12-21 02:25:15,456 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:25:15,456 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:25:22,832 - spider.py[line:248] - ERROR: 邪神神之化身 page:719
+2018-12-21 02:25:22,832 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:25:22,834 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:28:20,555 - spider.py[line:248] - ERROR: E·HERO海洋人 page:733
+2018-12-21 02:28:20,555 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:28:20,555 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:28:37,677 - spider.py[line:248] - ERROR: 贪婪类星体 page:735
+2018-12-21 02:28:37,677 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:28:37,677 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:30:45,194 - spider.py[line:248] - ERROR: 龙之骑士 page:743
+2018-12-21 02:30:45,194 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:30:45,194 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:31:38,237 - spider.py[line:248] - ERROR: 嵌合机型超载龙 page:747
+2018-12-21 02:31:38,239 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:31:38,239 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:32:36,313 - spider.py[line:248] - ERROR: 赫利俄斯三重伟力 page:750
+2018-12-21 02:32:36,313 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:32:36,313 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:32:37,750 - spider.py[line:248] - ERROR: 原始太阳赫利俄斯 page:751
+2018-12-21 02:32:37,750 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:32:37,750 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:32:41,974 - spider.py[line:248] - ERROR: 蒲公英狮 page:752
+2018-12-21 02:32:41,974 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:32:41,976 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:34:10,368 - spider.py[line:248] - ERROR: D-HERO恐惧小子 page:758
+2018-12-21 02:34:10,368 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:34:10,368 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:35:08,579 - spider.py[line:248] - ERROR: 寄生体壁虱 page:763
+2018-12-21 02:35:08,579 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:35:08,581 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:36:02,428 - spider.py[line:248] - ERROR: 破坏龙刚多拉 page:767
+2018-12-21 02:36:02,430 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:36:02,430 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:38:01,974 - spider.py[line:248] - ERROR: 幽浮斗士 page:776
+2018-12-21 02:38:01,974 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:38:01,974 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:38:04,588 - spider.py[line:248] - ERROR: 无限恐龙 page:777
+2018-12-21 02:38:04,588 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:38:04,588 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:38:39,398 - spider.py[line:248] - ERROR: 拟人化喷气飞机 page:778
+2018-12-21 02:38:39,398 - spider.py[line:249] - ERROR: [Errno socket error] [Errno 10060] 
+2018-12-21 02:38:39,398 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:38:51,822 - spider.py[line:248] - ERROR: 邪神恐惧之源 page:779
+2018-12-21 02:38:51,822 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:38:51,823 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:38:57,092 - spider.py[line:248] - ERROR: 冥王龙汪达尔吉昂 page:780
+2018-12-21 02:38:57,092 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:38:57,092 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:39:24,572 - spider.py[line:248] - ERROR: 白骨王 page:783
+2018-12-21 02:39:24,572 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:39:24,572 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:39:35,286 - spider.py[line:248] - ERROR: 巨岩龙 page:784
+2018-12-21 02:39:35,286 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:39:35,286 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:39:39,265 - spider.py[line:248] - ERROR: 失落守护使 page:785
+2018-12-21 02:39:39,265 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 0: invalid decimal Unicode string
+2018-12-21 02:39:39,265 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:46:50,934 - spider.py[line:248] - ERROR: 团结UNITY page:815
+2018-12-21 02:46:50,934 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:46:50,934 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:47:15,302 - spider.py[line:248] - ERROR: 蓝眼究极龙 page:817
+2018-12-21 02:47:15,302 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:47:15,302 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:47:45,924 - spider.py[line:248] - ERROR: 胜利龙 page:819
+2018-12-21 02:47:45,924 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:47:45,924 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:49:14,029 - spider.py[line:248] - ERROR: 卡通黑魔导士少女 page:824
+2018-12-21 02:49:14,030 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:49:14,030 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:49:27,851 - spider.py[line:248] - ERROR: 太阳神之翼神龙 page:825
+2018-12-21 02:49:27,851 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:49:27,851 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:49:35,407 - spider.py[line:248] - ERROR: 欧贝利斯克之巨神兵 page:826
+2018-12-21 02:49:35,407 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:49:35,407 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:49:36,930 - spider.py[line:248] - ERROR: 奥西里斯之天空龙 page:827
+2018-12-21 02:49:36,930 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:49:36,930 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:53:43,266 - spider.py[line:248] - ERROR: 红莲魔兽达·伊扎 page:846
+2018-12-21 02:53:43,266 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:53:43,266 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:54:06,282 - spider.py[line:248] - ERROR: 暗黑魔族基尔法恶魔 page:848
+2018-12-21 02:54:06,282 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:54:06,282 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:55:48,155 - spider.py[line:248] - ERROR: 合成魔兽加杰特 page:857
+2018-12-21 02:55:48,157 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 02:55:48,157 - spider.py[line:250] - ERROR: 
+
+2018-12-21 02:58:51,173 - spider.py[line:248] - ERROR: 王家长眠之谷-逝者之峡 page:872
+2018-12-21 02:58:51,173 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 02:58:51,174 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:01:20,957 - spider.py[line:248] - ERROR: 子机 page:884
+2018-12-21 03:01:20,957 - spider.py[line:249] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 03:01:20,957 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:02:41,052 - spider.py[line:248] - ERROR: 革命 page:890
+2018-12-21 03:02:41,052 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 03:02:41,052 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:03:00,928 - spider.py[line:248] - ERROR: 机械王 page:892
+2018-12-21 03:03:00,930 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 03:03:00,930 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:06:20,431 - spider.py[line:248] - ERROR: 黑暗惧灵 page:906
+2018-12-21 03:06:20,431 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 03:06:20,431 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:07:31,410 - spider.py[line:248] - ERROR: 假面魔兽覆颜地狱修道士 page:911
+2018-12-21 03:07:31,410 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 03:07:31,411 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:07:52,707 - spider.py[line:248] - ERROR: 千眼纳祭魔 page:913
+2018-12-21 03:07:52,707 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 03:07:52,707 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:11:36,464 - spider.py[line:248] - ERROR: 黑魔导士 page:929
+2018-12-21 03:11:36,466 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 03:11:36,466 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:11:38,714 - spider.py[line:248] - ERROR: 龙破坏之剑士 page:930
+2018-12-21 03:11:38,714 - spider.py[line:249] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 03:11:38,714 - spider.py[line:250] - ERROR: 
+
+2018-12-21 03:15:00,792 - spider.py[line:248] - ERROR: 独角兽的角 page:939
+2018-12-21 03:15:00,792 - spider.py[line:249] - ERROR: [Errno socket error] [Errno 10060] 
+2018-12-21 03:15:00,792 - spider.py[line:250] - ERROR: 
+
+2018-12-21 16:29:08,209 - spider.py[line:248] - ERROR: None page:2
+2018-12-21 16:38:22,641 - spider.py[line:250] - ERROR: None page:3
+2018-12-21 16:38:49,842 - spider.py[line:250] - ERROR: None page:3
+2018-12-21 16:38:51,509 - spider.py[line:251] - ERROR: 'ascii' codec can't encode characters in position 0-5: ordinal not in range(128)
+2018-12-21 16:38:51,510 - spider.py[line:252] - ERROR: 
+
+2018-12-21 16:41:20,157 - spider.py[line:250] - ERROR: None page:1
+2018-12-21 16:41:20,812 - spider.py[line:251] - ERROR: [Error 2] 
+2018-12-21 16:41:24,161 - spider.py[line:252] - ERROR: 
+
+2018-12-21 16:41:33,413 - spider.py[line:250] - ERROR: None page:2
+2018-12-21 16:41:33,413 - spider.py[line:251] - ERROR: [Error 2] 
+2018-12-21 16:41:33,414 - spider.py[line:252] - ERROR: 
+
+2018-12-21 16:41:34,647 - spider.py[line:250] - ERROR: None page:3
+2018-12-21 16:41:34,648 - spider.py[line:251] - ERROR: [Error 2] 
+2018-12-21 16:41:34,648 - spider.py[line:252] - ERROR: 
+
+2018-12-21 16:43:25,880 - spider.py[line:251] - ERROR: None page:16
+2018-12-21 16:43:25,881 - spider.py[line:252] - ERROR: [Error 2] 
+2018-12-21 16:43:25,881 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:43:51,292 - spider.py[line:251] - ERROR: None page:18
+2018-12-21 16:43:51,292 - spider.py[line:252] - ERROR: [Error 2] 
+2018-12-21 16:43:51,292 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:45:12,700 - spider.py[line:251] - ERROR: None page:31
+2018-12-21 16:47:44,878 - spider.py[line:251] - ERROR: None page:31
+2018-12-21 16:47:44,880 - spider.py[line:252] - ERROR: [Error 2] 
+2018-12-21 16:47:44,881 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:49:06,917 - spider.py[line:251] - ERROR: 终焉龙混沌帝 page:36
+2018-12-21 16:49:06,917 - spider.py[line:252] - ERROR: [Error 183] 
+2018-12-21 16:49:06,917 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:50:00,342 - spider.py[line:251] - ERROR: None page:45
+2018-12-21 16:50:49,756 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:50:49,756 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:51:30,684 - spider.py[line:251] - ERROR: None page:54
+2018-12-21 16:51:47,441 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:51:47,441 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:52:34,701 - spider.py[line:251] - ERROR: None page:70
+2018-12-21 16:52:34,701 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:52:34,701 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:53:16,331 - spider.py[line:251] - ERROR: 十二兽轮环狗 page:125
+2018-12-21 16:53:16,331 - spider.py[line:252] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 16:53:16,331 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:53:29,148 - spider.py[line:251] - ERROR: None page:128
+2018-12-21 16:53:29,148 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:53:29,148 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:54:15,213 - spider.py[line:251] - ERROR: 魔海城百臂巨人 page:205
+2018-12-21 16:54:15,213 - spider.py[line:252] - ERROR: invalid literal for int() with base 10: '?'
+2018-12-21 16:54:15,213 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:54:28,569 - spider.py[line:251] - ERROR: None page:208
+2018-12-21 16:54:28,569 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:54:28,569 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:55:36,256 - spider.py[line:251] - ERROR: None page:288
+2018-12-21 16:55:36,257 - spider.py[line:252] - ERROR: HTTPSConnectionPool(host='www.ourocg.cn', port=443): Max retries exceeded with url: /card/wvsRLl (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000000000DC3A5C0>: Failed to establish a new connection: [Errno 10060] ',))
+2018-12-21 16:55:36,257 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:55:49,512 - spider.py[line:251] - ERROR: None page:291
+2018-12-21 16:55:49,512 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:55:49,512 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:56:28,640 - spider.py[line:251] - ERROR: None page:304
+2018-12-21 16:56:28,640 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:56:28,640 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:56:54,444 - spider.py[line:251] - ERROR: None page:382
+2018-12-21 16:56:54,444 - spider.py[line:252] - ERROR: [Error 2] 
+2018-12-21 16:56:54,444 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:57:29,233 - spider.py[line:251] - ERROR: None page:390
+2018-12-21 16:57:29,233 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:57:29,234 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:58:29,322 - spider.py[line:251] - ERROR: None page:468
+2018-12-21 16:58:29,322 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:58:29,322 - spider.py[line:253] - ERROR: 
+
+2018-12-21 16:59:34,085 - spider.py[line:251] - ERROR: None page:544
+2018-12-21 16:59:34,085 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 16:59:34,085 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:00:30,487 - spider.py[line:251] - ERROR: None page:611
+2018-12-21 17:00:30,487 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:00:30,487 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:01:34,332 - spider.py[line:251] - ERROR: None page:689
+2018-12-21 17:01:34,332 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:01:34,334 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:02:08,032 - spider.py[line:251] - ERROR: 嵌合机型超载龙 page:747
+2018-12-21 17:02:08,032 - spider.py[line:252] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 17:02:08,032 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:02:47,256 - spider.py[line:251] - ERROR: 赫利俄斯三重伟力 page:750
+2018-12-21 17:02:47,256 - spider.py[line:252] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 17:02:47,257 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:02:51,003 - spider.py[line:251] - ERROR: 原始太阳赫利俄斯 page:751
+2018-12-21 17:02:51,005 - spider.py[line:252] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 17:02:51,005 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:02:54,966 - spider.py[line:251] - ERROR: 蒲公英狮 page:752
+2018-12-21 17:02:54,967 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 17:02:54,967 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:03:36,040 - spider.py[line:251] - ERROR: D-HERO恐惧小子 page:758
+2018-12-21 17:03:36,040 - spider.py[line:252] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 17:03:36,040 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:03:51,601 - spider.py[line:251] - ERROR: None page:761
+2018-12-21 17:03:51,601 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:03:51,601 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:04:49,516 - spider.py[line:251] - ERROR: None page:776
+2018-12-21 17:04:49,516 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:04:49,517 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:05:46,604 - spider.py[line:251] - ERROR: None page:799
+2018-12-21 17:05:46,604 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:05:46,605 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:06:00,003 - spider.py[line:251] - ERROR: 卡通黑魔导士少女 page:824
+2018-12-21 17:06:00,003 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 17:06:00,003 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:06:06,255 - spider.py[line:251] - ERROR: 太阳神之翼神龙 page:825
+2018-12-21 17:06:06,256 - spider.py[line:252] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 17:06:06,256 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:06:10,756 - spider.py[line:251] - ERROR: 欧贝利斯克之巨神兵 page:826
+2018-12-21 17:06:10,756 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 17:06:10,756 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:06:13,223 - spider.py[line:251] - ERROR: 奥西里斯之天空龙 page:827
+2018-12-21 17:06:13,223 - spider.py[line:252] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 17:06:13,223 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:06:48,772 - spider.py[line:251] - ERROR: None page:833
+2018-12-21 17:06:48,772 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:06:48,773 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:07:54,407 - spider.py[line:251] - ERROR: 合成魔兽加杰特 page:857
+2018-12-21 17:07:54,407 - spider.py[line:252] - ERROR: 'decimal' codec can't encode character u'\uff1f' in position 1: invalid decimal Unicode string
+2018-12-21 17:07:54,407 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:08:51,528 - spider.py[line:251] - ERROR: None page:866
+2018-12-21 17:08:51,529 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:08:51,529 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:09:48,844 - spider.py[line:251] - ERROR: None page:883
+2018-12-21 17:09:48,844 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:09:48,844 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:10:25,243 - spider.py[line:251] - ERROR: 黑暗惧灵 page:906
+2018-12-21 17:10:25,243 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 17:10:25,243 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:10:48,292 - spider.py[line:251] - ERROR: None page:910
+2018-12-21 17:10:48,293 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'find_all'
+2018-12-21 17:10:48,293 - spider.py[line:253] - ERROR: 
+
+2018-12-21 17:10:57,947 - spider.py[line:251] - ERROR: 龙破坏之剑士 page:930
+2018-12-21 17:10:57,947 - spider.py[line:252] - ERROR: 'NoneType' object has no attribute 'get'
+2018-12-21 17:10:57,948 - spider.py[line:253] - ERROR: 
+

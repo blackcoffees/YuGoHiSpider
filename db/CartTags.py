@@ -1,6 +1,6 @@
 # -*- coding:utf8 -*-
 from db.PoolDB import pool
-from util.tags_util import RARITY, dict_tags
+from util.tags_util import RARITY, dict_tags, PACKAGE
 
 
 class CartTags(object):
@@ -25,16 +25,14 @@ def get_tags_rarity(value):
     if tags_rarity:
         return tags_rarity
     else:
-        if dict_tags.get(RARITY):
+        if dict_tags.get(RARITY.upper()):
             cart_tags = CartTags()
             cart_tags.chi_name = value
             cart_tags.eng_name = value
-            cart_tags.tags_chi_name = dict_tags.get(RARITY).get("tags_chi_name")
-            cart_tags.tags_eng_name = dict_tags.get(RARITY).get("tags_eng_name")
+            cart_tags.tags_chi_name = dict_tags.get(RARITY.upper()).get("tags_chi_name")
+            cart_tags.tags_eng_name = dict_tags.get(RARITY.upper()).get("tags_eng_name")
             cart_tags.save()
-            return cart_tags
-
-
+            return get_tags_rarity(value)
 
 
 def get_tags_by_name(name, tags_eng_name=None):
@@ -47,32 +45,39 @@ def get_tags_by_name(name, tags_eng_name=None):
     return pool.find_one(sql, param=param)
 
 
-def get_tags_by_tags_eng_name(tags_eng_name, value, tags_eng_name2=None):
-    value = value.replace(" ", "")
-    value = value.replace("\n", "")
+def get_tags_by_tags_eng_name(tags_eng_name, value, tags_eng_name2=None, is_equal=False):
     tags_eng_name = tags_eng_name.upper()
+    if tags_eng_name != "PACKAGE":
+        value = value.replace(" ", "")
+        value = value.replace("\n", "")
+    if not value:
+        return None
     if tags_eng_name2:
         tags_eng_name2 = tags_eng_name2.upper()
-    sql = """select * from cart_tags where tags_eng_name='%s' and chi_name like '%%%%%s%%%%'""" %\
-          (tags_eng_name, value)
-    cart_tags = pool.find_one(sql)
+    # sql = """select * from cart_tags where tags_eng_name="%s" and chi_name like "%%%%%s%%%%" """ %\
+    #       (tags_eng_name, value)
+    sql = """select * from cart_tags where tags_eng_name=%s and chi_name =%s"""
+    cart_tags = pool.find_one(sql, [tags_eng_name, value])
     if cart_tags:
         return cart_tags
     elif tags_eng_name2:
-        sql = """select * from cart_tags where tags_eng_name in ('%s', '%s') and chi_name like '%%%%%s%%%%'""" % (
-            tags_eng_name, tags_eng_name2, value)
-        cart_tags = pool.find_one(sql)
+        # sql = """select * from cart_tags where tags_eng_name in ("%s", "%s") and chi_name like "%%%%%s%%%%" """ % (
+        #     tags_eng_name, tags_eng_name2, value)
+        sql = """select * from cart_tags where tags_eng_name in (%s, %s) and chi_name =%s """
+        cart_tags = pool.find_one(sql, [tags_eng_name, tags_eng_name2, value])
         if cart_tags:
             return cart_tags
     if dict_tags.get(tags_eng_name):
         cart_tags = CartTags()
         cart_tags.chi_name = value
+        cart_tags.eng_name = value
+        cart_tags.jap_name = value
         cart_tags.tags_chi_name = dict_tags.get(tags_eng_name).get("tags_chi_name")
         cart_tags.tags_eng_name = dict_tags.get(tags_eng_name).get("tags_eng_name")
         cart_tags.save()
         return get_tags_by_tags_eng_name(tags_eng_name, value, tags_eng_name2)
     else:
-        print "该分类不存在%s, %s" % (tags_eng_name, value)
+        print u"该分类不存在%s, %s" % (tags_eng_name, value)
 
 
 def get_tags_by_tags_eng_name_equal(tags_eng_name, value):
